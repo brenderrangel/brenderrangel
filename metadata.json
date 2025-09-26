@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de KML a Partir de Mapa",
+  "description": "Uma aplicação web para desenhar uma área em um mapa e exportar as coordenadas como um arquivo KML. Ideal para criar polígonos geográficos para uso em softwares como o Google Earth.",
+  "requestFramePermissions": []
+}
